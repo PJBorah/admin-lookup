@@ -1,2 +1,4 @@
-# admin-lookup
-Find Admin panel Of any Website
+admin-panel-finder
+==================
+
+A Python Script to find admin panel of a site
